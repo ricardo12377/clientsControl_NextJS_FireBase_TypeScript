@@ -1,4 +1,4 @@
-## Getting Started
+## Como iniciar o projeto.
 
 ```bash
 npm run dev
