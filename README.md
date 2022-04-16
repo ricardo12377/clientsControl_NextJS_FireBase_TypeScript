@@ -1,15 +1,15 @@
 ## Como iniciar o projeto.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<h5>
+ NPM RUN DEV
+ <hr/>
+ YARN DEV
+</h5>
 
 
-#Projeto Feito com NextJS-TypeScript-FireBase.
+<h1>CLIENTS MANAGMENT</div>
 
- - O intúito dessa aplicação é controlar cadastros de pessoas com o poder do FireBase no front-end.
+The propose of this application is create a painel to control a business clients with FireBase backend, NextJS and TypeScript.
 
 
 
